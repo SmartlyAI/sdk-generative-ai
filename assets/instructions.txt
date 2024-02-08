@@ -1,0 +1,5 @@
+Fiche0 https://pratique.sso.infra.ftgroup/produits/fiche-produit/12/mobile
+Fiche1 https://pratique.sso.infra.ftgroup/aide-et-support/fiche-assistance/25809/desinstaller-une-toolbar-barre-drsquooutils-de-votre-navigateur
+Fiche2 https://pratique.sso.infra.ftgroup/aide-et-support/fiche-assistance/59326/consulter-les-guides-pratiques
+Fiche3 https://pratique.sso.infra.ftgroup/aide-et-support/fiche-assistance/65278/installer-intune-sur-son-mobile
+
