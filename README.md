@@ -38,4 +38,4 @@ This project offers two ways to create knowledge bases:
 ## Project Launch
 Once dependencies are installed and configuration is complete, you can start the project by using the following command:
 ```sh
-npm start
+node index.js
